@@ -9,12 +9,11 @@
 </channels>
 
 <channels>
-<name>[B]CanalMusicShow[/B]</name>
 <channel>
+<name>[B]CanalMusicShow[/B]</name>
 <externallink>https://raw.githubusercontent.com/Rfaddon/-h0m3/master/CanalMusicShow</externallink>
 <thumbnail>https://www.topshowmusic.com.br/arquivos/slide/2706210243F01.png</thumbnail>
 <fanart>https://www.topshowmusic.com.br/arquivos/slide/2706210243F01.png</fanart>
 <item></item>
 </channel>
 </channels>
-
