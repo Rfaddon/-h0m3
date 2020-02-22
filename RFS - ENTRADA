@@ -14,6 +14,20 @@
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 <channels>
 <channel>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] ANIME[/B]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Rfaddon/RFS-2N1M3/master/RFS-AN1M3</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+<info>
+
+By [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
+[COLOR yellow]- Este projeto está em desenvolvimento - [/COLOR]</info>
+</channel>
+</channels>
+
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+<channels>
+<channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] TV ONLINE[/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/canaisonline.png</thumbnail>
 <externallink>https://raw.githubusercontent.com/Rfaddon/RFS-7V/master/RFS-7V%20Onl1n3</externallink>
@@ -61,7 +75,7 @@ By [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 <channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] MÚSICA[/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/Rfaddon/-h0m3/master/RFS%20-%20M%C3%9A51C2S</externallink>
+<externallinkhttps://raw.githubusercontent.com/Rfaddon/-h0m3/master/RFS%20-%20M%C3%9A51C2S</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
 <info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
@@ -71,9 +85,9 @@ By [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 
 <channels>
 <channel>
-<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] NOVELAS[/B]</name>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] Tokusatsus[/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/filmes.png</thumbnail>
-<externallink>https://</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/RFS--70KU5275U/master/70KU5275U</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
 By [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[/B]
