@@ -73,9 +73,21 @@ By [B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/C
 
 <channels>
 <channel>
+<name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] KIDS[/B]</name>
+<thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
+<externallink>https://raw.githubusercontent.com/Rfaddon/K1d5/master/B253%20%20K1d5</externallink>
+<fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
+
+<info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
+</channel>
+</channels>
+<<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
+
+<channels>
+<channel>
 <name>[B][COLOR deepskyblue]P[/COLOR][COLOR hotpink]l[/COLOR][COLOR lightgreen]a[/COLOR][COLOR gold]y[/COLOR]Addon[COLOR gold]|[/COLOR][COLOR greenyellow] ●[/COLOR] MÚSICA[/B]</name>
 <thumbnail>https://ia801406.us.archive.org/24/items/repoinfotec/emmanuten%C3%A7ao.png</thumbnail>
-<externallinkhttps://raw.githubusercontent.com/Rfaddon/-h0m3/master/RFS%20-%20M%C3%9A51C2S</externallink>
+<externallink>https://raw.githubusercontent.com/Rfaddon/-h0m3/master/RFS%20-%20M%C3%9A51C2S</externallink>
 <fanart>https://ia601406.us.archive.org/24/items/repoinfotec/fanart.jpg</fanart>
 
 <info>[COLOR yellow]|[/COLOR] - Este projeto está em desenvolvimento - [COLOR yellow]|[/COLOR]</info>
